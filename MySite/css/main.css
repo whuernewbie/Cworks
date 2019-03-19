@@ -1,0 +1,300 @@
+#layer1
+{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	
+}
+#layer2 {
+	position: absolute;
+	width: 22%;
+	height: 100%;
+	z-index: 2;
+	left: 6px;
+	top: 6px;
+	filter: Alpha(Opacity=50, FinishOpacity=50, Style=1, StartX=0, StartY=0, FinishX=40%, FinishY=100%);
+	visibility: hidden;
+}
+#layer3 {
+	position: absolute;
+	width: 40.8%;
+	height: 22.6%;
+	z-index: 2;
+	left: 492px;
+	top: 233px;
+	filter: Alpha(Opacity=50, FinishOpacity=50, Style=1, StartX=0, StartY=0, FinishX=40%, FinishY=100%);
+	cursor: pointer;
+}
+#test
+{
+	position: absolute;
+	width: 35%;
+	height: 80%;
+	z-index: 3;
+	left: 592px;
+	top: 177px;
+	visibility: visible;
+	overflow: auto;
+	overflow-x: hidden;
+	background-image: url(../image/halfone.png)
+}
+#test2
+{
+	position: absolute;
+	width: 35%;
+	height: 100%;
+	z-index: 2;
+	left: 582px;
+	top: 15px;
+	visibility: visible;
+	overflow: auto;
+	overflow-x: hidden;
+}
+#Layer3 {
+	position: absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index: 3;
+	right:50px;
+	top: 360px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer2 {
+	position: absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index: 3;
+	left: 10px;
+	top: 10px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer1 {
+	position: absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index: 3;
+	right:50px;
+	top: 10px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer4 {
+	position:absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index:3;
+	right:50px;
+	top: 180px;
+	cursor: pointer;
+}
+#Layer5 {
+	position:absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index:3;
+	left: 10px;
+	top: 180px;
+	cursor: pointer;
+}
+
+#Layer6 {
+	position:absolute;
+	width: 37.4%;
+	height: 15.8%;
+	z-index:3;
+	left: 10px;
+	top: 360px;
+	cursor: pointer;
+}
+#Layer7 {
+	position: absolute;
+	width: 35%;
+	height: 100%;
+	z-index: 2;
+	left: 5px;
+	top: 8px;
+	filter: Alpha(Opacity=50, FinishOpacity=50, Style=1, StartX=0, StartY=0, FinishX=40%, FinishY=100%);
+}
+#Layer8 {
+	position: absolute;
+	width: 100%;
+	height: 75%;
+	z-index: 3;
+	left: 0px;
+	top: 223px;
+	overflow: auto;
+	overflow-x: hidden;
+}
+#Layer9{
+	position: absolute;
+	width: 40%;
+	height: 100%;
+	z-index: 2;
+	left: 1027px;
+	top: 6px;
+	filter: Alpha(Opacity=50, FinishOpacity=50, Style=1, StartX=0, StartY=0, FinishX=40%, FinishY=100%);
+}
+#Layer10 {
+	position: absolute;
+	width: 100%;
+	height: 75%;
+	z-index: 3;
+	left: 0px;
+	top: 223px;
+	overflow: auto;
+	overflow-x: hidden;
+}
+#Layer11 {
+	position: absolute;
+	width: 65.7%;
+	height: 28.2%;
+	z-index: 3;
+	left: 53px;
+	top: 503px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer12 {
+	position: absolute;
+	width: 30%;
+	height: 25%;
+	z-index: 3;
+	left: 422px;
+	top: -4px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer13 {
+	position: absolute;
+	width: 33%;
+	height: 20%;
+	z-index: 2;
+	left: 204px;
+	top: 25px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer14 {
+	position: absolute;
+	width: 30%;
+	height: 25%;
+	z-index: 3;
+	left: 4px;
+	top: 3px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#Layer15{
+	position: absolute;
+	width: 22%;
+	height: 100%;
+	z-index: 2;
+	right:0px;
+	top: 3px;
+	filter: Alpha(Opacity=50, FinishOpacity=50, Style=1, StartX=0, StartY=0, FinishX=40%, FinishY=100%);
+	visibility:hidden;
+}
+#Layer16{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	z-index: 2;
+	right: 0px;
+	bottom: 255px;
+}
+#Layer17{
+	position: absolute;
+	width: 100%;
+	height: 50%;
+	z-index: 2;
+	right: -2px;
+	top: 3px;
+}
+#Layer18{
+	position: absolute;
+	width: 10%;
+	height: 15%;
+	z-index: 2;
+	right: 826px;
+	top: 41px;
+	cursor: pointer;
+}
+#Layertext1
+{
+	position: absolute;
+	width: 163px;
+	height: 31px;
+	z-index: 10;
+	left: 374px;
+	top: 77px;
+	background-color: #FFF;
+	overflow: hidden;
+	visibility: hidden;
+}
+#Layertext2
+{
+	position: absolute;
+	width: 223px;
+	height: 112px;
+	z-index: 5;
+	left: 1140px;
+	top: 202px;
+	background-color: #FFF;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+
+.text {
+	font-size: 25px;
+	font-weight: 700;
+	color: #000;
+}
+.text2 {
+	font-size:35px;
+	font-weight:bold;
+	color: #00F;
+}
+.text3 {
+	font-size:30px;
+	font-weight:bold;
+	color: #00F
+}
+.text4 {
+	font-size: 22px;
+	font-weight: normal;
+	color: #FFF;
+}
+.text5
+ {
+	font-size: 25px;
+	font-weight: 700;
+	color: #FF0;
+}
+.text6
+{
+	font-size:25px;
+	font-weight:400;
+	color: #F00;
+}
+.text7
+{
+	font-size:large;
+	font-weight:bolder;
+	color: #F00;
+}
+.href{
+	font-size:25px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:italic;
+}
+#image
+{
+	width:100%;
+	height:100%;
+}
+
+	
