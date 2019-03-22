@@ -1,0 +1,3 @@
+﻿  ConsoleApplication11.cpp
+c:\users\10048\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(30): warning C4715: “testWalk”: 不是所有的控件路径都返回值
+  ConsoleApplication11.vcxproj -> C:\Users\10048\Source\Repos\ConsoleApplication11\Debug\ConsoleApplication11.exe
